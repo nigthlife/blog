@@ -1,0 +1,37 @@
+{
+  "url": "http://localhost:2368/",
+  "server": {
+    "port": 2368,
+    "host": "127.0.0.1"
+  },
+  "database": {
+    "client": "sqlite3",
+    "connection": {
+      "filename": "G:\\ghost-blog\\content\\data\\ghost-local.db"
+    }
+  },
+  "mail": {
+    "transport": "SMTP",
+    "from": "705374570@qq.com",
+    "options": {
+      "service": "qq",
+      "host": "smtp.qq.com",
+      "port": 465,
+      "secure": true,
+      "auth": {
+        "user": "705374570@qq.com",
+        "pass": "crnoubcskvgcbedc"
+      }
+    }
+  },
+  "logging": {
+    "transports": [
+      "file",
+      "stdout"
+    ]
+  },
+  "process": "local",
+  "paths": {
+    "contentPath": "G:\\ghost-blog\\content"
+  }
+}
