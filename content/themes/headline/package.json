@@ -66,7 +66,7 @@
             },
             "email_signup_text": {
                 "type": "text",
-                "default": "Don't miss out on the latest news. Sign up now to get access to the library of members-only articles."
+                "default": "不要错过最新消息。 立即注册即可访问会员专享文章库."
             },
             "footer_text": {
                 "type": "text"

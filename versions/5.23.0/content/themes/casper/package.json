@@ -161,7 +161,7 @@
             },
             "email_signup_text": {
                 "type": "text",
-                "default": "Sign up for more like this.",
+                "default": "注册以获取更多此类信息.",
                 "group": "post"
             },
             "show_recent_posts_footer": {
